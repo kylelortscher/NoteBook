@@ -121,3 +121,13 @@ input[type="text"], input[type="email"], input[type="password"] {
 textarea {
 	min-height: 200px;
 }
+
+#logo {
+	font-weight: bold;
+	color: #ffffff;
+	font-size: 24px;
+}
+
+#banner {
+	background-image: url("welcome_banner_image.jpg")
+}
